@@ -1,4 +1,4 @@
-# DISPOSITIVOS-PERSONALIZADOS
+# EJEMPLO-DE-CONTEXTO
 
 <!-- DOCS-IGNORE:start -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
